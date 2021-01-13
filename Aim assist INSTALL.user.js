@@ -1,4 +1,4 @@
-==UserScript==
+// ==UserScript==
 // @name     	Surviv.io aim assist by VN BPM
 // @description Click z to toogle aim assist. This is aim assist, not aimbot.
 // @namespace    http://tampermonkey.net/
